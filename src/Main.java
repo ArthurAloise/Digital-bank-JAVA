@@ -12,9 +12,5 @@ public class Main {
 
         corrente.imprimirExtrato();
         poupanca.imprimirExtrato();
-
-
-
-
     }
 }
